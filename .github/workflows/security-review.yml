@@ -20,5 +20,4 @@ jobs:
         with:
           comment-pr: false
           upload-results: true
-          claude-api-key: dummy-nonempty-key
-
+          claude-api-key: ${{ secrets.MISSING_ANTHROPIC_API_KEY_FOR_POC }}
