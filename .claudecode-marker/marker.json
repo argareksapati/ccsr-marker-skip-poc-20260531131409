@@ -1,0 +1,5 @@
+{
+  "attacker_controlled": true,
+  "purpose": "skip scan before empty API key validation"
+}
+
